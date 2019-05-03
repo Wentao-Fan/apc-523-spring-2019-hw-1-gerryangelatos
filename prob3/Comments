@@ -1,0 +1,2 @@
+The final inequality in part (a) is wrong. The resulting inequality should depend on the value of n.
+For the propagated error to be substantial, the term(s) in the relative error involving epsilon_{x} or expsilon_{a} should be comparable to 1.
